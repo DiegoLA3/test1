@@ -91,8 +91,8 @@ function Demo() {
     <Grid item xs={6}>
       <Typography variant='h3'>hnxwidget Demonstration</Typography>
       <Typography variant='caption'>
-        GitHub Repository: <a href='https://www.github.com/pnnl/hypernetx-widget'>
-          github.com/pnnl/hypernetx-widget
+        GitHub Repository: <a href='https://diegola3.github.io/test/t'>
+          testing testing 123
         </a>
       </Typography>
       <Typography>
