@@ -10,7 +10,7 @@ import TextField from '@material-ui/core/TextField';
 import {HypernetxWidget} from '../../src/'
 
 const defaultUserInput = `{
-  "0": ["FN", "TH"],
+  "0": ["NN", "TH"],
   "1": ["TH", "JV"],
   "2": ["BM", "FN", "JA"],
   "3": ["JV", "JU", "CH", "BM"],
