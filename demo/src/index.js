@@ -105,6 +105,9 @@ function Demo() {
       constructor for a <a href='https://github.com/pnnl/hypernetx'>HypernetX</a>
       object--a dictionary mapping edges to lists of nodes.
       </Typography>
+      <Typography>
+      what what 
+      </Typography>
 
     </Grid>
     
