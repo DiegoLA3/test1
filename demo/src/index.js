@@ -96,6 +96,8 @@ function Demo() {
         </a>
       </Typography>
       <Typography>
+      THIS IS A TEST TO MAKE SURE THIS THING WORKS, IF IT DOES WE CAN MOVE ON TO THE NEXT STUFF      
+      
       This is hypergraph cheese visualization tool that uses an Euler diagram--nodes
       are circles and hyper edges are outlines (rubber bands)
       containing the nodes/circles.
