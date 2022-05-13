@@ -112,6 +112,7 @@ function Demo() {
       </Typography>
 
     </Grid>
+    root.render(Grid);
     
     <Grid item xs={6}>
       <JSONTextField
